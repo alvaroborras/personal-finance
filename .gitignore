@@ -1,0 +1,12 @@
+# Financial data and application credentials never belong in this public repository.
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.sqlite3
+*.db
+.local/
+.env
+.env.*
+!.env.example
